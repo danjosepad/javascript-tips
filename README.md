@@ -25,3 +25,5 @@ Quando os dados PODEM ser representados através de um JSON, ao invés de trabal
 pode-se tornar em uma string literal, e passá-las por JSON.parse, com 
 
 const data = JSON.parse('{ user: 'Daniel', email: 'email@provider.com', ... }')
+
+Para uma explicação mais detalhada, veja esse [vídeo](https://www.youtube.com/watch?v=ff4fgQxPaO0) explicativo do Google Chrome Developers: 
