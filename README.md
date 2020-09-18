@@ -66,5 +66,5 @@ const array = [{a: 1}, { b: 2}, { c: 3}];
 
 const objectOfArrays = Object.assign({}, ...array);
 
-console.log(objectOfArrays);
+console.log(objectOfArrays); // { a: 1, b: 2, c: 3}
 ```
